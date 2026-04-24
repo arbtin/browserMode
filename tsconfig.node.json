@@ -4,7 +4,7 @@
     "target": "es2023",
     "lib": ["ES2023"],
     "module": "esnext",
-    "types": ["node", "vite/client", "@vitest/browser/matchers"],
+    "types": ["node", "vite/client","@vitest/browser/matchers"],
     "skipLibCheck": true,
 
     /* Bundler mode */
